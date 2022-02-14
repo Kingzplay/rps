@@ -2,5 +2,5 @@
 A simple rock paper scissor game written in Rust.
 
 
-https://user-images.githubusercontent.com/72809211/153823358-eec0759c-2dd6-4f9a-9e88-f3355748ed4d.mp4
 
+![output](https://user-images.githubusercontent.com/72809211/153824443-61021966-da25-4c2a-8fbc-c15ecdbb0ba0.gif)
