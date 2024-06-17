@@ -11,7 +11,7 @@ fn main() {
             "rock" => matcher(prompt),
             "paper" => matcher(prompt),
             "scissor" => matcher(prompt),
-            "credits" => println!("Thanks for the Rust team for creating this amazing programming language\nYou can check out my video about this program and leave a like =) : https://www.youtube.com/watch?v=dQw4w9WgXcQ"),
+            "credits" => println!("Thanks for the Rust team for creating this amazing programming language\n"),
             _ => println!("Unknown command, type \"help\" to display valid commands.")
     }
     }
